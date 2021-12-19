@@ -1,11 +1,11 @@
 # cachet-autoinstall
 Automatic installer for CachetHQ
 
-Make sure that you are able to install PHP 7.0.
+Make sure that you are able to install PHP 7.4.
 
 How to use:
 ```
-git clone https://github.com/Alex0219/cachet-autoinstall.git
+git clone https://github.com/Tix-Hosting-on-GitHub/cachet-autoinstall.git
 cd cachet-autoinstall/
 chmod +x ./cachet-install.sh
 ./cachet-install.sh
